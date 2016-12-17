@@ -1,6 +1,6 @@
 
 
-$(document).ready(function() {
+$(document).ready(function() { // INICIA BIBLIOTECA JQUERY
 	
 	$("#cpCep").bind('blur', function() {
 		
