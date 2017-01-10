@@ -1,7 +1,7 @@
 <?php require_once 'header/header.php';?>
 
 			<div class="row">	
-				<h1 class="h1">Cadastro de clientes TESTE</h1>
+				<h1 class="h1">Cadastro de clientes</h1>
 				<form action="" name="form1" id="form1">
 					<div class="col-md-2">
 						<div class="form-group">
